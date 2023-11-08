@@ -59,7 +59,7 @@ fun HalamanHome(
                         .align(Alignment.CenterHorizontally)
                 )
                 Text(
-                    text = "Pikopi",
+                    text = "Pekopi",
                     color = Color.DarkGray,
                     fontFamily = FontFamily.Cursive,
                     fontStyle = FontStyle.Italic,
